@@ -13,8 +13,8 @@ A React application for capturing webcam frames and saving them to a server. Thi
 
 ### Prerequisites
 
-- Node.js (>= 12.x)
-- npm (>= 6.x) or yarn (>= 1.x)
+- Node.js  & bun
+- pnpm
 
 ### Installation
 
